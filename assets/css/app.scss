@@ -4,6 +4,10 @@
 // Import Main CSS file from theme
 @import "main";
 
+p {
+  margin-bottom: 0 !important;
+}
+
 p + ul {
   margin-top: 0 !important;
 }
